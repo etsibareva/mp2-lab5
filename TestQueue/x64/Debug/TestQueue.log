@@ -1,2 +1,5 @@
-﻿  test_tvector.cpp
-  TestQueue.vcxproj -> C:\Users\catri\source\repos\lab5-cpu\Graphics-EmptyProject\x64\Debug\TestQueue.exe
+﻿  gtest-all.cc
+  test_main.cpp
+  test_tvector.cpp
+  Создание кода...
+  TestQueue.vcxproj -> C:\Users\Пользователь\source\repos\mp2-lab5\mp2-lab5\Graphics-EmptyProject\x64\Debug\TestQueue.exe
